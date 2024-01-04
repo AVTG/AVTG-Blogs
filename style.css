@@ -29,39 +29,7 @@
   margin-bottom: 50px;
 }
 
-/* @media (max-width: 1030px) {
-  .card_container {
-    grid-template-columns: repeat(3, 1fr);
-  }
-}
-@media (max-width: 790px) {
-  .card_container {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-@media (max-width: 515px) {
-  .card_container {
-    grid-template-columns: repeat(1, 1fr);
-  }
-}
-@media (min-width: 260px) {
-  .card {
-    height: 22rem;
-    margin: 0 auto;
-    width: 15rem;
-    border: 1px solid rgba(84, 80, 80, 0.742);
-    border-radius: 8px;
-    overflow: hidden;
-  }
-}
 
-.card {
-  height: 22rem;
-  margin: 0 auto;
-  border: 1px solid rgba(84, 80, 80, 0.742);
-  border-radius: 8px;
-  overflow: hidden;
-} */
 
 .card {
     height: 26rem;
